@@ -1,4 +1,9 @@
 package com.rikad.lat1_akb14k_10116908_rikad;
+//Nama             : Rikad Fauzi Alawi
+//Nim                : 10116908
+//Kelas              : AKB14K
+//Tanggal Buat  : 07-04-2019
+//Link Github     : https://github.com/rikad/lat1_akb14k_10116908_rikad
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
